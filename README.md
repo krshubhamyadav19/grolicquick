@@ -1,21 +1,4 @@
-<p align="center">
-  <img src="docs/logo.png" alt="NodeDR POS logo" width="160">
-</p>
-
-# nodedr-pos
-
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
-[![Docker Compose](https://img.shields.io/badge/deploy-docker%20compose-2496ED?logo=docker&logoColor=white)](docker-compose.yml)
-[![Node](https://img.shields.io/badge/node-24-339933?logo=node.js&logoColor=white)](backend/Dockerfile)
-[![Offline-first](https://img.shields.io/badge/offline--first-yes-success)](#)
-[![CasaOS / ZimaOS](https://img.shields.io/badge/CasaOS%20%2F%20ZimaOS-one--click%20app-1F6FEB)](casaos/README.md)
-
-**[Try NodeDR POS](https://pos.nodedr.com/)** · **[Case study](https://www.raktimranjit.com/projects/nodedr-pos)** · **[Maintainer: Raktim Ranjit](https://www.raktimranjit.com/)**
-
-<p align="center">
-  <img src="docs/assets/hero-animated.svg" alt="NodeDR POS: animated overview with an illustrative sample screen" width="100%">
-</p>
-
+\
 
 A free, open-source, **offline-first** point-of-sale and inventory
 management system for small retail shops. It runs on a machine in your shop
